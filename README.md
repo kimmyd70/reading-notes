@@ -9,7 +9,7 @@
   + Chapter 8: “Extra Markup” (p.176-199)
   + Chapter 17: “HTML5 Layout” (pp.428-451)
   + Chapter 18: “Process & Design” (pp.452-475)
-    - [Structure, Extra Markup, HTML 5 Layout, Process & Design](html-notes.md)
+    - [Structure, Extra Markup, HTML 5 Layout, Process & Design](https://github.com/kimmyd70/learning-journal/blob/master/html-notes.md)
     
     **And Duckett JS:**
   + Chapter 1: “The ABC of Programming” (pp.11-52)
