@@ -3,7 +3,7 @@
   ![lightbulb](https://user-images.githubusercontent.com/61428656/75473987-fe78c100-594a-11ea-99e6-8322e6af80aa.jpg)
  
 
-  1) **Class 1 notes on Duckett HTML:**
+  **1) Class 1 notes on Duckett HTML:**
   + Introduction (pp.2-11)
   + Chapter 1: “Structure” (pp.12-39)
   + Chapter 8: “Extra Markup” (p.176-199)
