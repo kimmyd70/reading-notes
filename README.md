@@ -3,18 +3,19 @@
   ![lightbulb](https://user-images.githubusercontent.com/61428656/75473987-fe78c100-594a-11ea-99e6-8322e6af80aa.jpg)
  
 
-  **1) Class 1 notes on Duckett HTML:**
-  + Introduction (pp.2-11)
-  + Chapter 1: “Structure” (pp.12-39)
-  + Chapter 8: “Extra Markup” (p.176-199)
-  + Chapter 17: “HTML5 Layout” (pp.428-451)
-  + Chapter 18: “Process & Design” (pp.452-475)
-    - [Structure, Extra Markup, HTML 5 Layout, Process & Design](https://github.com/kimmyd70/learning-journal/blob/master/html-notes.md)
+ | **1) Class 1 notes on Duckett HTML:**         |   **And Duckett JS:** |
+ | --------------------------------------------- | ----------------------------------------------------------------------------------- |
+ | + Introduction (pp.2-11)                      |   + Chapter 1: “The ABC of Programming” (pp.11-52)                                 |
+ | + Chapter 1: “Structure” (pp.12-39)           |     - [Javascript Basics](https://github.com/kimmyd70/learning-journal/blob/master/javascript.md)  |
+ | + Chapter 8: “Extra Markup” (p.176-199)       |  - [Computer Architecture and Logic](https://github.com/kimmyd70/learning-journal/blob/master/how-computers-work.md)  |
+ | + Chapter 17: “HTML5 Layout” (pp.428-451)     |
+ | + Chapter 18: “Process & Design” (pp.452-475) |
+ |   - [Structure, Extra Markup, HTML 5 Layout, Process & Design](https://github.com/kimmyd70/learning-journal/blob/master/html-notes.md) |
     
-    **And Duckett JS:**
-  + Chapter 1: “The ABC of Programming” (pp.11-52)
-    - [Javascript Basics](https://github.com/kimmyd70/learning-journal/blob/master/javascript.md)
-    - [Computer Architecture and Logic](https://github.com/kimmyd70/learning-journal/blob/master/how-computers-work.md)
+  
+ 
+  
+   
     
     
   **2) [Class 2 Notes](insert link)
