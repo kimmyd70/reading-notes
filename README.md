@@ -3,7 +3,7 @@
   ![lightbulb](https://user-images.githubusercontent.com/61428656/75473987-fe78c100-594a-11ea-99e6-8322e6af80aa.jpg)
  
 
- | **_Class 1_ notes on Duckett HTML:**        |   **And Duckett JS:** |
+ | _**Class 1**_ **notes on Duckett HTML:**        |   **And Duckett JS:** |
  | -------------------------------------------- | ----------------------------------------------------------------------------------- |
  |  Introduction (pp.2-11)                      |    Chapter 1: “The ABC of Programming” (pp.11-52)                                 |
  |  Chapter 1: “Structure” (pp.12-39)           |      [Javascript Basics](https://github.com/kimmyd70/learning-journal/blob/master/javascript.md)  |
