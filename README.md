@@ -11,7 +11,7 @@
   + Chapter 18: “Process & Design” (pp.452-475)
     - [Structure, Extra Markup, HTML 5 Layout, Process & Design] (insert link)
     
-  **And Duckett JS:**
+    **And Duckett JS:**
   + Chapter 1: “The ABC of Programming” (pp.11-52)
     - [Javascript Basics](javascript.md)
     - [Computer Architecture and Logic](how-computers-work.md)
