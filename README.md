@@ -13,7 +13,7 @@
     
     **And Duckett JS:**
   + Chapter 1: “The ABC of Programming” (pp.11-52)
-    - [Javascript Basics](javascript.md)
+    - [Javascript Basics](https://github.com/kimmyd70/learning-journal/blob/master/javascript.md)
     - [Computer Architecture and Logic](how-computers-work.md)
     
   **2) [Class 2 Notes](insert link)
