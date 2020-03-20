@@ -12,10 +12,7 @@
  |  Chapter 18: “Process & Design” (pp.452-475) |
  |   [Structure, Extra Markup, HTML 5 Layout, Process & Design](https://github.com/kimmyd70/learning-journal/blob/master/html-notes.md)|
     
-  
- 
-  
-   
+___________________________________
     
     
   **2) [Class 2 Notes](insert link)
