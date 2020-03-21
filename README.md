@@ -6,11 +6,11 @@
  | CLASS 1 **notes on Duckett HTML:**        |   **And Duckett JS:** |
  | -------------------------------------------- | ----------------------------------------------------------------------------------- |
  |  Introduction (pp.2-11)                      |    Chapter 1: “The ABC of Programming” (pp.11-52)                                 |
- |  Chapter 1: “Structure” (pp.12-39)           |      [Javascript Basics](javascript.html)  |
- |  Chapter 8: “Extra Markup” (p.176-199)       |   [Computer Architecture and Logic](how-computers-work.html)  |
+ |  Chapter 1: “Structure” (pp.12-39)           |      [Javascript Basics](javascript.md)  |
+ |  Chapter 8: “Extra Markup” (p.176-199)       |   [Computer Architecture and Logic](how-computers-work.md)  |
  |  Chapter 17: “HTML5 Layout” (pp.428-451)     |
  |  Chapter 18: “Process & Design” (pp.452-475) |
- |   [Structure, Extra Markup, HTML 5 Layout, Process & Design](html-notes.html)|
+ |   [Structure, Extra Markup, HTML 5 Layout, Process & Design](html-notes.md)|
     
 ___________________________________
     
