@@ -1,6 +1,6 @@
 ![venn diagram](images/ops.png)
 
-# Comparison Operators (as in comparative logic courses taken before)
+# Comparison *Operators* (as in comparative logic courses taken before)
 
 Six operators:
 + == **equal** to (3 and '3' will return true)
@@ -10,6 +10,21 @@ Six operators:
 + && **logical and**
 + || **logical or**
 + += is same as msg = msg + new msg (see p176)
+
+Using if comparison statement:
+``` 
+if (score >=50){
+    //call function or do action
+    congratulate(); 
+}
+else {
+    //note use of ;
+    encourage(); 
+}
+else if {
+    //use safety catch all or maybe "try again" loop
+}
+```
 
 Loops: check a condition, true runs the code block, check again, true runs code block...until false
 
