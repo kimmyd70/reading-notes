@@ -1,0 +1,1 @@
+notes from Ch 2 Duckett html 40-61
