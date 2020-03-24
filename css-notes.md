@@ -1,7 +1,7 @@
 ![CSS header](images/css.png)
 
 Notes re: CSS
-(p.s. I'm familiar with css from previous schooling)
+(p.s. I'm very familiar with css from previous schooling)
 
 
 CSS is usually in a separate doc, although they can be embedded
@@ -24,9 +24,12 @@ Use external CSS with a link
 + href
 + rel
 
+Link to **external** style sheet using NAME with `<link href=css/NAME.css type="text/css" rel="stylesheet"/>`
+
 Use **inline** CSS with style tag on the semantic tag <p style=...>
 
-Use **internal** CSS with style in HEAD same syntax as external style doc p{...}
+Use **internal** CSS with style in HEAD same syntax as external style doc p{...} (very familiar)
+
 
 See p 238 for selectors
 
@@ -47,3 +50,4 @@ Different browsers may display different css quirks or bugs--simple is better
 
 Look at syntax on colors Ch11 when needed; limit color palette! KISS.  Look at accessibility color palettes
 + Remember contrast 3:1 (or 7:1) for UI/UX accessibility
++ check out WCAG page (Web Content Accessibility Guide)
