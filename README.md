@@ -15,7 +15,14 @@
 ___________________________________
     
     
-  **2) [Class 2 Notes](insert link)
+  | CLASS 2 **notes on Duckett HTML:**        |   **And Duckett JS:** |
+ | -------------------------------------------- | ----------------------------------------------------------------------------------- |
+ |  Chapter 2: "Text" (pp.40-61)                |    Chapter 2: “Basic JavaScript Instructions” (pp.53-84)                            |
+ |  Chapter 10: “Intro to CSS” (pp.226-245)     |    Chapter 4: "Decisions & Loops" (pp.145-162)  |
+ |  [Text](text.md)                             |    [Javascript Basics](javascript.md)  |
+ |  [Intro to CSS](css-notes.md)                |    [Decisions & Loops](loop-notes.md) |
+    
+___________________________________
   
   **3) [Class 3 Notes](insert link)
   

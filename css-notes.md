@@ -1,3 +1,5 @@
+![CSS header](images/css.png)
+
 Notes re: CSS
 (p.s. I'm familiar with css from previous schooling)
 
@@ -22,10 +24,12 @@ Use external CSS with a link
 + href
 + rel
 
-Use internal CSS with style tag
+Use **inline** CSS with style tag on the semantic tag <p style=...>
+
+Use **internal** CSS with style in HEAD same syntax as external style doc p{...}
 
 See p 238 for selectors
-# insert picture here
+
 ![selectors](https://user-images.githubusercontent.com/61428656/75612706-fcde0300-5ada-11ea-9d12-02edcae7ab8a.png)
 )
 
@@ -39,5 +43,7 @@ Inheritance
 + Force inheritance by using inherit language: {padding: inherit;}
 
 Different browsers may display different css quirks or bugs--simple is better
++ Can use css reset to reset for browser agnostic (from Ryan G--look this up)
 
-Look at syntax on colors Ch11 when needed
+Look at syntax on colors Ch11 when needed; limit color palette! KISS.  Look at accessibility color palettes
++ Remember contrast 3:1 (or 7:1) for UI/UX accessibility
