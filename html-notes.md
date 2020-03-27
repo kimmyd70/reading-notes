@@ -1,4 +1,4 @@
-![flexbox pic](images/floatbox.png)
+![flexbox pic](images/html.jpg)
 
 # HTML Process & Design, Layout, Structure, & Mark-up
 
