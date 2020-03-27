@@ -24,7 +24,14 @@ ___________________________________
     
 ___________________________________
   
-  **3) [Class 3 Notes](insert link)
+ | CLASS 3 **notes on Duckett HTML:**        |   **And Duckett JS:** |
+ | -------------------------------------------- | ----------------------------------------------------------------------------------- |
+ |  Chapter 3: "Lists" (pp.62-73)               |    Chapter 4: "Decisions & Loops; switch" (pp.162-182)  |
+ |  Chapter 13: “Boxes” (pp.300-329)            |    
+ |  [Lists](lists.md)                            |   [Decisions & Loops](loop-notes.md) |
+ |  [CSS Boxes](boxes.md)                   |    
+    
+___________________________________
   
   **4) [Class 4 Notes](insert link)
   
