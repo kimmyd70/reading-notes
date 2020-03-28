@@ -29,7 +29,7 @@ ___________________________________
  |  Chapter 3: "Lists" (pp.62-73)               |    Chapter 4: "Decisions & Loops; switch" (pp.162-182)  |
  |  Chapter 13: “Boxes” (pp.300-329)            |    
  |  [Lists](lists.md)                            |   [Decisions & Loops](loop-notes.md) |
- |  [CSS Boxes](boxes.md)                   |    
+ |  [Box Model](boxes.md)                   |    
     
 ___________________________________
   
