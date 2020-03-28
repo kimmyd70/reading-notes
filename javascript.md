@@ -42,6 +42,9 @@ Remember = vs == vs === (assigned, equal to, strictly equal)
 
 ### Arrays: variables storing more than one value
 
++ index starts at 0
++ if you use `indexOf.` function and it doesn't find the element it assigns index of -1              
+
 ```
 var sammich;
 sammich = ['bread', 'cheese', 'mayo']
