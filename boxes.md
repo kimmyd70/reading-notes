@@ -1,4 +1,4 @@
-![flexbox pic](images/floatbox.png)
+![picture wall](images/art-wall.jpg)
 
 ## CSS/HTML Boxes
 
