@@ -4,7 +4,7 @@
  
 
  | CLASS 1 **notes on Duckett HTML:**           |   **And Duckett JS:** |
- | -------------------------------------------------------------------------------------------------- |
+ | -------------------------------------------- | ---------------------------------------------------- |
  |  Introduction (pp.2-11)                      |   Chapter 1: “The ABC of Programming” (pp. 11-52) |
  |  Chapter 1: “Structure” (pp.12-39)           |   [Javascript Basics](javascript.md)  |
  |  Chapter 8: “Extra Markup” (p.176-199)       |   [Computer Architecture and Logic](how-computers-work.md)  |
@@ -25,7 +25,7 @@ ___________________________________
 ___________________________________
   
  | CLASS 3 **notes on Duckett HTML:**           |   **And Duckett JS:** |
- | ------------------------------------------------------------------------------------------------------ |
+ | -------------------------------------------- | ------------------------------------------------------- |
  |  Chapter 3: "Lists" (pp.62-73)               |    Chapter 4: "Decisions & Loops; switch" (pp.162-182)  |
  |  Chapter 13: “Boxes” (pp.300-329)            |    
  |  [Lists](lists.md)                           |   [Decisions & Loops](loop-notes.md) |
@@ -33,7 +33,7 @@ ___________________________________
     
 ___________________________________
   
- | CLASS 2 **notes on Duckett HTML:**           |   **And Duckett JS:** |
+ | CLASS 4 **notes on Duckett HTML:**           |   **And Duckett JS:** |
  | -------------------------------------------- | -------------------------------------------------------- |
  |  Chapter 4: "Links" (pp.74-93)               |    Chapter 3: “Functions, Methods, Objects” (pp.86-99)   |
  |  Chapter 15: “Layout” (pp.358-404)           |    Aticle: "6 Reasons for Pair Programming               |
