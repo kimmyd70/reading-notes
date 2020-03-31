@@ -36,7 +36,7 @@ ___________________________________
  | CLASS 4 **notes on Duckett HTML:**           |   **And Duckett JS:** |
  | -------------------------------------------- | -------------------------------------------------------- |
  |  Chapter 4: "Links" (pp.74-93)               |    Chapter 3: “Functions, Methods, Objects” (pp.86-99)   |
- |  Chapter 15: “Layout” (pp.358-404)           |    Aticle: "6 Reasons for Pair Programming               |
+ |  Chapter 15: “Layout” (pp.358-404)           |    Article: "6 Reasons for Pair Programming               |
  |  [Links](links.md)                           |    [Functions/Methods/Objects](functions-methods-objects.md)  |
  |  [Layout](layout.md)                         |    [Pair Programming](pair-programming.md) |
     
