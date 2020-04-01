@@ -1,6 +1,6 @@
 ![Pear Programming](images/pair-programming.jpg)
 
-## Notes on [THIS](https://www.codefellows.org/blog/6-reasons-for-pair-programming/) article
+## Pair Programming
 
 Common to agile work environments
 
@@ -27,3 +27,4 @@ Benefits:
 
 + Work environment readiness: many companies use; familiarity w/ PP means company doesn't need to train
 
+### Notes on [THIS](https://www.codefellows.org/blog/6-reasons-for-pair-programming/) article
