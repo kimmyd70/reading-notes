@@ -34,7 +34,7 @@
 + remember **local** vs **global** variables
     - local declared within a function and only accessible by that function
 
-    - global outside function and anywhere within the script gives access to the script
+    - global outside function and anywhere within the script gives access to the script; consider declaring globals at the top of the document
 
     - global stored in memory (for as long as page is loaded) vs local used and discarded:  use local whenever possible
 
