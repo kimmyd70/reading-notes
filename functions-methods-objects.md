@@ -18,6 +18,7 @@
     - `function area (width, height)`
 + use function expression to call **anonymous function**
     - ` var area = function (width, height`)
+    - saves return to the variable
 
 + immediately invoked function expressions (iify)
     - executed once interpreter reads
