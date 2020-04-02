@@ -2,7 +2,8 @@
 
 
 ## Functions see 86-99
-+ group a series of statements together to perform a specific task
++ group a series of statements together to perform a **specific** task
++ just enough code for that one thing
 + some need pieces of info called **parameters**
 + when you write a fn that gives a response that's a **return value**
 + return statement is not always needed
