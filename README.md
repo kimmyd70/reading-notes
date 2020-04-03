@@ -45,7 +45,7 @@ ___________________________________
   
 | CLASS 5 **notes on Duckett HTML:**            |  |
  | -------------------------------------------- | ------------------------------------------------- |
- |  Chapter 5: "images" (pp. 94-124)            |   Chapter 11: "Color" (pp. 246-263)    |
+ |  Chapter 5: "Images" (pp. 94-124)            |   Chapter 11: "Color" (pp. 246-263)    |
  |  Chapter 12: “Text” (pp. 264-299)            |   [Color](color.md) |
  |  [Images](images.md)                           |   |
  |  [More Text](text2.md)                         |    |
