@@ -57,3 +57,17 @@
 
 + 196-207!!! Nodelists query returns
 + !! use validation methods to avoid XSS (Cross-Site Scripting Attacks)(pp. 228-229)
+
+![Object code](/images/Object-code.png)
+
+## Template Literals
+
+`console.log('My name is', this.name)`
+
+Use: console.log (`My last name is ${this.lastName}.  It's Greek`) string within `` instead of concatanation
+
+
+
+
+
+
