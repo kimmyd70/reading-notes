@@ -69,6 +69,7 @@ Use: console.log (`My last name is ${this.lastName}.  It's Greek`) string within
 ![DOM manipulation](/images/DOM-code.png)
 
 
+![List Item ex](/images/list-code.png)
 
 
 
