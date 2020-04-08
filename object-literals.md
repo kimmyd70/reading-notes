@@ -66,6 +66,10 @@
 
 Use: console.log (`My last name is ${this.lastName}.  It's Greek`) string within `` instead of concatanation
 
+![DOM manipulation](/images/DOM-code.png)
+
+
+
 
 
 
