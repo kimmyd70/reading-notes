@@ -60,7 +60,11 @@ ___________________________________
 
 ___________________________________
   
-  **7) [Class 7 Notes](insert link)
+| CLASS 7 **notes on Duckett HTML/CSS:**        |      **And Duckett JS:**              |
+ | -------------------------------------------- | ------------------------------------------------- |
+ |  Chapter 6: "Tables" (pp. 126-145  )  |   Chapter 3: “Functions, Methods, Objects” (pp.106-144)   |    |
+ |  [Tables](tables.md)    |  [Functions/Methods/Objects](functions-methods-objects.md)| |
+
   
   **8) [Class 8 Notes](insert link)
   

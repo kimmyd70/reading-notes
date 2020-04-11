@@ -1,6 +1,7 @@
 ![function pic](images/Apple_slicing_function.png)
 
 
+## *Updated with 106-144
 ## Functions see 86-99
 + group a series of statements together to perform a **specific** task
 + just enough code for that one thing
