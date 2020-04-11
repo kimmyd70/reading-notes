@@ -62,7 +62,8 @@ ___________________________________
   
 | CLASS 7 **notes on Duckett HTML/CSS:**        |      **And Duckett JS:**              |
  | -------------------------------------------- | ------------------------------------------------- |
- |  Chapter 6: "Tables" (pp. 126-145  )  |   Chapter 3: “Functions, Methods, Objects” (pp.106-144)   |    |
+ |  Chapter 6: "Tables" (pp. 126-145  )  |   Chapter 3: “Functions, Methods, Objects” (pp.106-144)   | 
+ | [Domain modeling article](https://github.com/codefellows/domain_modeling#domain-modeling)   |
  |  [Tables](table.md)    |  [Functions/Methods/Objects](functions-methods-objects.md)| |
 
   
