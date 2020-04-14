@@ -1,5 +1,7 @@
 ![Layout](images/layout.png)
 
+### *Updated for Class 8
+
 Can display block
     - `<h1>, <p>, <ul>, <li>`
 

@@ -67,7 +67,11 @@ ___________________________________
  |  [Tables](tables.md)    |  [Functions/Methods/Objects](functions-methods-objects.md)| |
 
   
-  **8) [Class 8 Notes](insert link)
+  | CLASS 8 **notes on Duckett HTML:**            |  |
+ | -------------------------------------------- | ------------------------------------------------- |
+ |  Chapter 15: "Layout" (pp. 358-404)             |
+ |  [Layout](layout.md)                           |   
+ 
   
   **9) [Class 9 Notes](insert link)
   
