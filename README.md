@@ -73,7 +73,14 @@ ___________________________________
  |  [Layout](layout.md)                           |   
  
   
-  **9) [Class 9 Notes](insert link)
+| CLASS 9 **notes on Duckett HTML:**               |   **And Ducket JS:**|
+ | --------------------------------------------    | ------------------------------------------------- |
+ |  Chapter 7: "Forms" (pp. 144-175)               |   Chapter 6: "Events" (pp. 243-292)    |
+ |  Chapter 12: “Lists/Tables/Forms” (pp.330-357)  |   [Events](events.md) |
+ |  [Forms](forms.md)                              |   |
+ |  [More Forms, Lists, Tables](lists-tables-forms.md) |    |
+    
+___________________________________
   
   **10) [Class 10 Notes](insert link)
   
