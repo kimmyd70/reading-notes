@@ -1,3 +1,5 @@
+![form image](./images/form.png)
+
 ## Forms (pp 144-175)
 
 + use `<form>` element
