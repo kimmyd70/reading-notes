@@ -81,8 +81,13 @@ ___________________________________
  |  [More Forms, Lists, Tables](lists-tables-forms.md) |    |
     
 ___________________________________
-  
-  **10) [Class 10 Notes](insert link)
+ 
+ 
+  | CLASS 10 **notes on Duckett JS:**            |  |
+ | -------------------------------------------- | ------------------------------------------------- |
+ |  Chapter 15: "Debuggin" (pp. 449-486)             |
+ |  [debugging](debugging.md)                           |   
+
   
   **11) [Class 11 Notes](insert link)
   
