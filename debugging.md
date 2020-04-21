@@ -1,4 +1,4 @@
-![bugs](bugs.jpg)
+![bugs](./images/bugs.jpg)
 
 ## Debugging (pp 449-486)
 
@@ -12,9 +12,9 @@
 
 + Understand how the stack works:
 
-![The stack](stack1.png)
+![The stack](./images/stack1.png)
 
-![The stack](stack.png)
+![The stack](./images/stack.png)
 
 + Each time script enters new execution context:
     - Prepare
@@ -60,9 +60,9 @@ try{
  
  `throw new Error ('message');` especially for NaN
 
- ![Debugging Tips](debugging.png)
+ ![Debugging Tips](./images/debugging.png)
 
- ![Common Errors](common-errors.png)
+ ![Common Errors](./images/common-errors.png)
 
 
 
