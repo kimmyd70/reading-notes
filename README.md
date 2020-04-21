@@ -85,8 +85,8 @@ ___________________________________
  
   | CLASS 10 **notes on Duckett JS:**            |  |
  | -------------------------------------------- | ------------------------------------------------- |
- |  Chapter 15: "Debuggin" (pp. 449-486)             |
- |  [debugging](debugging.md)                           |   
+ |  Chapter 10: "Debugging" (pp. 449-486)             |
+ |  [debugging](./debugging.md)                           |   
 
   
   **11) [Class 11 Notes](insert link)
