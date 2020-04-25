@@ -92,7 +92,9 @@ ___________________________________
  | CLASS 11 **notes on Duckett HTML:**            |  |
  | -------------------------------------------- | ------------------------------------------------- |
  |  Chapter 16: "Images" (pp. 406-426)          | Chapter 19: "Practical Info" (pp. 476-492)
- |  [Images](using-images.md)                   |  [Practical Info](practical-info.md)                      |
+ |  [Images](using-images.md)                   |  [Practical Info](practical-info.md)            |
+
+ [MDN Video and Audio] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
   
   **12) [Class 12 Notes](insert link)
