@@ -91,7 +91,7 @@ ___________________________________
   
  | CLASS 11 **notes on Duckett HTML:**            |  |
  | -------------------------------------------- | ------------------------------------------------- |
- |  Chapter 16: "Images" (pp. 406-426)          | Chapter 19: "Practical Info" (pp. 406-426)
+ |  Chapter 16: "Images" (pp. 406-426)          | Chapter 19: "Practical Info" (pp. 476-492)
  |  [Images](using-images.md)                   |  [Practical Info](practical-info.md)                      |
 
   
