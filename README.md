@@ -89,7 +89,11 @@ ___________________________________
  |  [debugging](./debugging.md)                           |   
 
   
-  **11) [Class 11 Notes](insert link)
+ | CLASS 11 **notes on Duckett HTML:**            |  |
+ | -------------------------------------------- | ------------------------------------------------- |
+ |  Chapter 16: "Images" (pp. 406-426)          | Chapter 19: "Practical Info" (pp. 406-426)
+ |  [Images](using-images.md)                   |  [Practical Info](practical-info.md)                      |
+
   
   **12) [Class 12 Notes](insert link)
   
