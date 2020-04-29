@@ -97,7 +97,9 @@ ___________________________________
  [MDN Video and Audio] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
   
-  **12) [Class 12 Notes](insert link)
+  **12) Various topics and articles
+  
+  [Various topics](charts.md)
   
   **13) [Class 13 Notes](insert link)
   
