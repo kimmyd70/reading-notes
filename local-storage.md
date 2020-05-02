@@ -40,4 +40,13 @@ if (Modernizr.localstorage) {
   // maybe try dojox.storage or a third-party solution
 }
 ```
-**COME BACK TO THIS ARTICLE FOR SPECIFIC COMMANDS TO USE, TRACK CHANGES, AND FURTHER READING SUGGESTIONS
+use `localStorage.setItem(key,value);` to send something to local storage
+
+**Use `JSON.stringify()` to convert javascript object literal to string for local storage**
+
+[object literal](./images/object-literal.png)
+
+[set local storage](./images/set-local-storage.png)
+
+
+**COME BACK TO THIS ARTICLE FOR SPECIFIC COMMANDS TO USE, TRACK CHANGES, AND FURTHER READING SUGGESTIONS**
