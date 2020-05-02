@@ -97,11 +97,13 @@ ___________________________________
  [MDN Video and Audio](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 
   
-  **12) Various topics and articles
+**Class 12: Various topics and articles**
   
   [Various topics](charts.md)
   
-  **13) [Class 13 Notes](insert link)
+ **Class 13: Web Articles**
+ - [Local Storage](local-storage.md)
+ - [Google Teams](./google-teams.md)
   
   **14) [Class 14 Notes](insert link)
   
