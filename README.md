@@ -103,9 +103,10 @@ ___________________________________
   
  **Class 13: Web Articles**
  - [Local Storage](local-storage.md)
- - [Google Teams](./google-teams.md)
+ - [Google Teams](google-teams.md)
   
-  **14) [Class 14 Notes](insert link)
+  **Class 14: Web Articles on CSS Animation**
+  - [CSS Animation](css-animation.md)
   
   **15) [Class 15 Notes](insert link)
   
