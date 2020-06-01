@@ -1,6 +1,13 @@
-# My Seattle-201n18 Reading Notes
+# My Reading Notes
   
   ![lightbulb](https://user-images.githubusercontent.com/61428656/75473987-fe78c100-594a-11ea-99e6-8322e6af80aa.jpg)
+
+
+301 notes:
+
+[Responsive Web Design](./responsive.md)
+
+______________
  
 
  | CLASS 1 **notes on Duckett HTML:**           |   **And Duckett JS:** |
