@@ -7,6 +7,10 @@
 
 [Responsive Web Design](./responsive.md)
 
+[Floats](./floats.md)
+
+[SMACCS](http://smacss.com/)
+
 ______________
  
 
