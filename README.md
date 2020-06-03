@@ -3,13 +3,28 @@
   ![lightbulb](https://user-images.githubusercontent.com/61428656/75473987-fe78c100-594a-11ea-99e6-8322e6af80aa.jpg)
 
 
-301 notes:
+**301 notes**
+_______
+
+R-01:
 
 [Responsive Web Design](./responsive.md)
 
 [Floats](./floats.md)
 
 [SMACCS](http://smacss.com/)
+
+_____
+
+R-02:
+
+[Pair Programming](./pair.md)
+
+[JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-35](./jquery.md)
+
+
+
+ 
 
 ______________
  
