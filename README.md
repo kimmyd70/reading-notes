@@ -22,6 +22,15 @@ R-02:
 
 [JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-35](./jquery.md)
 
+___________
+
+R-03:
+
+[Flexbox](./flexbox.md)
+
+[Mustaching](./mustache.md)
+
+
 
 
  
