@@ -52,7 +52,20 @@ R-06
 
 [Node js](./node.md)
 
- 
+ _______________
+
+R-07
+
+Get API keys
+
+[Reference Google teams article from EQ discussion](nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
+[Superagent article](https://visionmedia.github.io/superagent/)
+- SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with Node.js!
+
+[REST article](https://gist.github.com/brookr/5977550)
+
+[REST notes](./rest.md)
 
 ______________
  
