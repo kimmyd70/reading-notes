@@ -77,6 +77,8 @@ R-08
 [Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
 
 [SQL Primer pdf](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
+
+[SQL notes](sql.md)
 ______________
  
 
