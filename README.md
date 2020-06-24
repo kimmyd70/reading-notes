@@ -66,6 +66,7 @@ Get API keys
 [REST article](https://gist.github.com/brookr/5977550)
 
 [REST notes](./rest.md)
+
 _______________
 
 R-08
@@ -79,6 +80,7 @@ R-08
 [SQL Primer pdf](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
 
 [SQL notes](sql.md)
+
 ______________
  
 
