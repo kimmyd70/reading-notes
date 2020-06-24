@@ -66,7 +66,17 @@ Get API keys
 [REST article](https://gist.github.com/brookr/5977550)
 
 [REST notes](./rest.md)
+_______________
 
+R-08
+
+[SQL tutorial](https://sqlbolt.com/)
+
+[W3Schools practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+
+[Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
+
+[SQL Primer pdf](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
 ______________
  
 
