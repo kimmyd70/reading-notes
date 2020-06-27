@@ -79,8 +79,17 @@ R-08
 
 [SQL Primer pdf](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
 
-[SQL notes](sql.md)
+[SQL notes](./sql.md)
 
+___________
+
+R-09
+
+[Medium article on functional programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+
+[Dev.to article on refactoring](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
+
+[Refactoring notes](./refactoring.md)
 ______________
  
 
