@@ -90,6 +90,7 @@ R-09
 [Dev.to article on refactoring](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
 
 [Refactoring notes](./refactoring.md)
+
 ______________
  
 
