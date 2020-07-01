@@ -91,6 +91,19 @@ R-09
 
 [Refactoring notes](./refactoring.md)
 
+_______________
+
+R-10
+
+[The Call Stack on MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+
+[Free Code Camp on the Javascript Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+
+[Understanding Javascript Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+
+[Call Stack Notes](./call-stack.md)
+
+
 ______________
  
 
