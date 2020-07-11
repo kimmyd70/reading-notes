@@ -15,4 +15,6 @@ Usefull for headers, footers, any common block you want on more than one page.  
         </nav>
     </div>
 
-    ```
+```
+Note: The <%- %> tags allow us to output the unescaped content onto the page (notice the -). This is important when using the include() statement since you don’t want EJS to escape your HTML characters like ‘<’, ‘>’, etc…
+
