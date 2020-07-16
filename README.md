@@ -121,6 +121,12 @@ R-13
 
 [Sending Form Data](form-data.md)
 
+____________
+
+R-14
+
+[Database Normalization](normalize.md)
+
 ______________
  
 
