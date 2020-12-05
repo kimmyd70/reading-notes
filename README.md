@@ -15,4 +15,6 @@ R-01:
 
 [Pain and Suffering](./pain-and-suffering.md)
 
+[Big O Notation](./big-o.md)
+
 
