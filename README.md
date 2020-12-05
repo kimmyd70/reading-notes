@@ -3,131 +3,15 @@
   ![lightbulb](https://user-images.githubusercontent.com/61428656/75473987-fe78c100-594a-11ea-99e6-8322e6af80aa.jpg)
 
 
-**301 notes**
+[**201 & 301 notes here**](./ToC-301&201.md)
 
 
 R-01:
 
 [Responsive Web Design](./responsive.md)
 
-[Floats](./floats.md)
 
-[SMACCS](http://smacss.com/)
 
-_____
-
-R-02:
-
-[Pair Programming](./pair.md)
-
-[JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-35](./jquery.md)
-
-___________
-
-R-03:
-
-[Flexbox](./flexbox.md)
-
-[Mustaching](./mustache.md)
-
-____________
-
-R-04:
-
-[Grid](./grid.md)
-
-[Regular Expressions](./regex.md)
-
-[RWA updated](./responsive.md)
-
-________________
-
-R-05:
-
-[Heroku](./heroku.md)
-
-___________________
-
-R-06
-
-[Node js](./node.md)
-
- _______________
-
-R-07
-
-Get API keys
-
-[Reference Google teams article from EQ discussion](nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-
-[Superagent article](https://visionmedia.github.io/superagent/)
-- SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with Node.js!
-
-[REST article](https://gist.github.com/brookr/5977550)
-
-[REST notes](./rest.md)
-
-_______________
-
-R-08
-
-[SQL tutorial](https://sqlbolt.com/)
-
-[W3Schools practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
-
-[Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
-
-[SQL Primer pdf](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
-
-[SQL notes](./sql.md)
-
-___________
-
-R-09
-
-[Medium article on functional programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
-
-[Dev.to article on refactoring](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
-
-[Refactoring notes](./refactoring.md)
-
-_______________
-
-R-10
-
-[The Call Stack on MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-
-[Free Code Camp on the Javascript Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
-
-[Understanding Javascript Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
-
-[Call Stack Notes](./call-stack.md)
-
-________________
-
-R-11
-
-[EJS](./ejs.md)
-
-_________
-
-R-12
-
-[EJS Partials](partials.md)
-
-____________
-
-R-13
-
-[Sending Form Data](form-data.md)
-
-____________
-
-R-14
-
-[Database Normalization](normalize.md)
-
-______________
  
 
  | CLASS 1 **notes on Duckett HTML:**           |   **And Duckett JS:** |
