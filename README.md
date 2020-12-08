@@ -17,4 +17,9 @@ R-01:
 
 [Big O Notation](./big-o.md)
 
+R-02:
+
+[Python Testing](./testing.md)
+
+[Recursion](./recursion.md)
 
