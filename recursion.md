@@ -22,15 +22,15 @@ int fact(int n)
 }
 ```
 - **Indirect Recursion**
-```
+
 "A function fun is called indirect recursive if it calls another function say fun_new and fun_new calls fun directly or indirectly."
-```
+
 - A **Tail Recursive** function is a function with the recursive call as the last thing executed by the function
 
 From the author on **memory allocation**
-```
+
 "When any function is called from main(), the memory is allocated to it on the stack. A recursive function calls itself, the memory for a called function is allocated on top of memory allocated to calling function and different copy of local variables is created for each function call. When the base case is reached, the function returns its value to the function by whom it is called and memory is de-allocated and the process continues."
-```
+
 
 - Recursive and iterative approaches can both be written for a problem
 

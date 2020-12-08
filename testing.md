@@ -24,7 +24,7 @@ tests/
  — — test_another_module.py
  ```
  - Structure:
- ```
+ 
  Arrange, Act and Assert.
 
 - Arrange: you need to organize the data needed to execute that piece of code (input)
@@ -32,21 +32,22 @@ tests/
 - Act: here you will execute the code being tested (exercise the behaviour)
 
 - Assert: after executing the code, you will check if the result (output) is the same as you were expecting
-```
+
 - pytest library is common platform
 
 -The TDD cycle (from the article): 
-```
+
 🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
 
 ✅ Write the feature and make the test pass! (you can dance after that)
 
 🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
-```
+
+
 !!! From the author about the design process:
-```
-One of the things that amaze me about TDD is how we can grow our software design consciously and well, just building what is needed to make the test pass. When we are writing tests we are forced to think about the design first and how we can break it into small pieces.
-```
+
+"One of the things that amaze me about TDD is how we can grow our software design consciously and well, just building what is needed to make the test pass. When we are writing tests we are forced to think about the design first and how we can break it into small pieces."
+
 book recommendations:
 
 ![TDD book](./images/TDD-book.jpg)
