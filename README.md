@@ -23,3 +23,8 @@ R-02:
 
 [Recursion](./recursion.md)
 
+R-03:
+
+[Read and Write Files](./py-read-and-write.md)
+
+[Exceptions](./py-exceptions.md)
