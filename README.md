@@ -34,3 +34,5 @@ R-04:
 [Classes and Objects](./classes-and-objects.md)
 
 [Thinking Recursively](./thinking-recursively.md)
+
+[Fixtures and Coverage](./fixtures-and-coverage.md)
