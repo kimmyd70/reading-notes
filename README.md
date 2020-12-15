@@ -28,3 +28,9 @@ R-03:
 [Read and Write Files](./py-read-and-write.md)
 
 [Exceptions](./py-exceptions.md)
+
+R-04: 
+
+[Classes and Object](./classes-and-objects.md)
+
+[Thinking Recursively](./thinking-recursively.md)
