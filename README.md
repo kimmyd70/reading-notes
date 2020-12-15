@@ -31,6 +31,6 @@ R-03:
 
 R-04: 
 
-[Classes and Object](./classes-and-objects.md)
+[Classes and Objects](./classes-and-objects.md)
 
 [Thinking Recursively](./thinking-recursively.md)
