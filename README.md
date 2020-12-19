@@ -36,3 +36,7 @@ R-04:
 [Thinking Recursively](./thinking-recursively.md)
 
 [Fixtures and Coverage](./fixtures-and-coverage.md)
+
+R-05:
+
+[Linked Lists](./linked-lists.md)
