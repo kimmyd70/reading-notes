@@ -40,3 +40,11 @@ R-04:
 R-05:
 
 [Linked Lists](./linked-lists.md)
+
+R-06: 
+
+[Python Random](./python-random.md)
+
+[Risk Analysis](./risk-analysis.md)
+
+[Dependency Injection](./dependency-injection.md)
