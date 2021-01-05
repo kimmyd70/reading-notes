@@ -48,3 +48,7 @@ R-06:
 [Risk Analysis](./risk-analysis.md)
 
 [Dependency Injection](./dependency-injection.md)
+
+R-07:
+
+[Python Scope](./python-scope.md)
