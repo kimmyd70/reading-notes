@@ -52,3 +52,15 @@ R-06:
 R-07:
 
 [Python Scope](./python-scope.md)
+
+R-08:
+
+[Python List Comprehensions ](./py-list-comprehensions.md)
+
+[Python Decorators](py-decorators.md)
+
+R-09:
+
+[Dunder Methods](./py-dunder.md)
+
+[Statistics and Probs](./py-stats-probs.md)
