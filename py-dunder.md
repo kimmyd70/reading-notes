@@ -2,7 +2,7 @@
 
 notes from [this article](https://dbader.org/blog/python-dunder-methods)
 
-dunder = short for double under(line)
+dunder is short for double under(line)
 
 Also called special or magic methods
 
