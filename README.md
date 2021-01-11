@@ -64,3 +64,6 @@ R-09:
 [Dunder Methods](./py-dunder.md)
 
 [Statistics and Probs](./py-stats-probs.md)
+
+R-10:
+[Stacks and Queues](./stacks-queues.md)
