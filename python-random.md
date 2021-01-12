@@ -2,6 +2,8 @@
 
 notes from [this article](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python) and [this additional reading](https://docs.python.org/3/library/random.html)
 
+>>[THIS ARTICLE](https://realpython.com/python-random/) is important explanation of Python pseudo-random and explains why Game of Greed (usually) generates the same roll on the first roll.  In GoG we use the default seed with a very limited sample set (1-6) so there are fewer permutations for a 6-die roll
+
 This module implements pseudo-random number generators for various distributions.
 
 It generates a random float uniformly in the semi-open range [0.0, 1.0)
