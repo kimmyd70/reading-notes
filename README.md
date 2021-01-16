@@ -67,3 +67,6 @@ R-09:
 
 R-10:
 [Stacks and Queues](./stacks-queues.md)
+
+R-11:
+[Jupyter and Numpty](./jupyter-and-numpty.md)
