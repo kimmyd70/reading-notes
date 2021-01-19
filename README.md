@@ -70,3 +70,6 @@ R-10:
 
 R-11:
 [Jupyter and Numpty](./jupyter-and-numpty.md)
+
+R-12:
+[Pandas](./pandas.md)
