@@ -73,3 +73,6 @@ R-11:
 
 R-12:
 [Pandas](./pandas.md)
+
+R-13:
+[Linear Regression](./py-linear-regression.md)
