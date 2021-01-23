@@ -4,6 +4,7 @@ notes from [this article](https://bigdata-madesimple.com/how-to-run-linear-regre
 
 and a refresher on [linear regression](https://www.statisticssolutions.com/what-is-linear-regression/)
 
+
 The overall idea of regression is to examine two things: (1) does a set of predictor variables do a good job in predicting an outcome (dependent) variable?  (2) Which variables in particular are significant predictors of the outcome variable, and in what way do they–indicated by the magnitude and sign of the beta estimates–impact the outcome variable? 
 
 The simplest form of the regression equation with one dependent and one independent variable is defined by the formula y = c + b*x, where y = estimated dependent variable score, c = constant, b = regression coefficient, and x = score on the independent variable.
@@ -21,6 +22,8 @@ Scikit-learn is a powerful Python module for machine learning. It contains funct
 first, import:
 
 ![scikit import](./images/scikit_import.png)
+
+NOTE: Since this demo was published `scikit-learn` has been updated. The `train_test_split` function is now imported from `sklearn.model_selection`
 
  The article explores data using a dictionary and converts it to a pandas df. The author's goal is to predict housing prices based on factors using `Least Squares`
 
