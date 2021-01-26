@@ -76,3 +76,6 @@ R-12:
 
 R-13:
 [Linear Regression](./py-linear-regression.md)
+
+R-14:
+[Data Visualization](./py-data-vis.md)
