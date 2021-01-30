@@ -1,5 +1,7 @@
 ## Trees and BST
 
+![Tree Diagram from Nick Dorkins' notes](./images/Binary-search-trees-diagram.png)
+
 notes from [this article](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
 - Node - A node is the individual item/data that makes up the data structure
