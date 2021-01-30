@@ -20,7 +20,7 @@ Prioritizes going through the height of the tree
 
 ***** See examples of each in reading doc
 
-1. Pre-order: root >> left >> right
+**Pre-order: root >> left >> right**
 
 ```
 ALGORITHM preOrder(root)
@@ -32,9 +32,10 @@ ALGORITHM preOrder(root)
 
   if root.right is not NULL
       preOrder(root.right)
+
 ```
 
-2. In-order: left >> root >> right
+**In-order: left >> root >> right**
 
 ```
 ALGORITHM inOrder(root)
@@ -48,9 +49,11 @@ ALGORITHM inOrder(root)
 
     if root.right is not NULL
         inOrder(root.right)
+
 ```
 
-3. Post-order: left >> right >> root
+**Post-order: left >> right >> root**
+
 ```
 ALGORITHM postOrder(root)
 // INPUT <-- root node
