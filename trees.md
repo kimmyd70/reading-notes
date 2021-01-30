@@ -35,6 +35,7 @@ ALGORITHM preOrder(root)
 ```
 
 2. In-order: left >> root >> right
+
 ```
 ALGORITHM inOrder(root)
 // INPUT <-- root node
