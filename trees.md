@@ -21,6 +21,7 @@ Prioritizes going through the height of the tree
 ***** See examples of each in reading doc
 
 1. Pre-order: root >> left >> right
+
 ```
 ALGORITHM preOrder(root)
 
