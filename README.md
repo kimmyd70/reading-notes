@@ -82,3 +82,9 @@ R-14:
 
 R-15: 
 [Trees](./trees.md)
+
+(module 16 on AI skipped)
+
+R-17:
+[Web Scraping](./web-scraping.md)
+
