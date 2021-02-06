@@ -88,3 +88,6 @@ R-15:
 R-17:
 [Web Scraping](./web-scraping.md)
 
+R-18:
+[Cryptography](./cryptography.md)
+
