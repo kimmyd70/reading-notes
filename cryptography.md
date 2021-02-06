@@ -41,4 +41,4 @@ Modern digital cryptography uses VPN, HTTPS, Bitlocker(Windows) or FileVault2(Ma
 
 Computer-generated We generally group the random numbers computers generate into two types, depending on how they’re generated: “True” random numbers and pseudo-random numbers.
 
-    - To generate a “true” random number, the computer measures some type of physical phenomenon that takes place outside of the computer.
+To generate a “true” random number, the computer measures some type of physical phenomenon that takes place outside of the computer.
