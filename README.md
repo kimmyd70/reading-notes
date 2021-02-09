@@ -92,5 +92,5 @@ R-18:
 [Cryptography](./cryptography.md)
 
 R-19:
-[Python Regex](./py-automation.md)
+[Python Automation](./py-automation.md)
 
