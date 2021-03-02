@@ -94,3 +94,9 @@ R-18:
 R-19:
 [Python Automation](./py-automation.md)
 
+R-Class 26:
+[Intro to Django](./py-django.md)
+
+R-Class 27:
+[Django Models](./py-django-models.md)
+
