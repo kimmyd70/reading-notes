@@ -75,7 +75,7 @@ class MyModelName(models.Model):
     - searching for records
     
 ****** See the article for a full example of models and how they interact ********
-___________________
+
 
 _________________________
 
@@ -102,9 +102,11 @@ __________________________
 ****** See the article for a full discussion of admin applications ********
 
 __________________________
+
 [Beginner's Guide 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
-_____________________
+
 ______________________
+
 - Django is a Web framework written in Python. A Web framework is a software that supports the development of dynamic Web sites, applications, and services. 
 
 - It provides a set of tools and functionalities such as security features, database access, sessions, template processing, URL routing, internationalization, localization, and much more.
@@ -112,5 +114,7 @@ ______________________
 - Supports Python libraries like those in the [Python Package Index](https://pypi.org/)
 
 _______________________
+
 [Beginner's Guide 2](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
+
 _______________________
