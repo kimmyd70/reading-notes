@@ -2,6 +2,9 @@
 
 Models from [this article](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 
+### Models
+
+
 - The definition of the model is independent of the underlying database 
 
 - Once you've chosen what database you want to use, you don't need to talk to it directly at all
@@ -73,10 +76,14 @@ class MyModelName(models.Model):
     
 ****** See the article for a full example of models and how they interact ********
 ___________________
+
 _________________________
+
 Admin from [this article](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)
+
 __________________________
 
+### Admin
 - The Django admin application can use your models to automatically build a site area that you can use to create, view, update, and delete records
 
 - This can save you a lot of time during development, making it very easy to test your models and get a feel for whether you have the right data 
