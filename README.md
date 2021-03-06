@@ -100,3 +100,6 @@ R-Class 26:
 R-Class 27:
 [Django Models](./py-django-models.md)
 
+R-Class 28: 
+[Django Forms](./py-django-forms.md)
+
