@@ -103,3 +103,6 @@ R-Class 27:
 R-Class 28: 
 [Django Forms](./py-django-forms.md)
 
+R-Class 29:
+[Django Custom User](./py-django-custom-user.md)
+
