@@ -106,3 +106,6 @@ R-Class 28:
 R-Class 29:
 [Django Custom User](./py-django-custom-user.md)
 
+R-30:
+[Hash Tables](./hash-tables.md)
+
