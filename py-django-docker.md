@@ -38,8 +38,11 @@ The most important takeaway is that Django creates websites containing webpages,
 __________________
 
 Take a look at the `library` app in this article
+
 *** includes adding REST Framework ***
+
 *** includes adding serializers.py to translate JSON ***
+
 __________________
 
 Also look at [REST framework tutorial(corrected link)](https://github.com/wsvincent/rest-framework-tutorial)
