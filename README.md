@@ -112,3 +112,6 @@ R-30:
 R-31:
 [Django REST and Docker](./py-django-docker.md)
 
+R-32:
+[DRF Permissions and POSTGRES](./py-drf-permissions.md)
+
