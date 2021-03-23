@@ -115,3 +115,6 @@ R-31:
 R-32:
 [DRF Permissions and POSTGRES](./py-drf-permissions.md)
 
+R-33:
+[Authentication and Production Server](./py-auth-and-production.md)
+
