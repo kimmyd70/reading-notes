@@ -118,3 +118,5 @@ R-32:
 R-33:
 [Authentication and Production Server](./py-auth-and-production.md)
 
+R-34:
+[API Deployment](./py-api-deployment.md)
