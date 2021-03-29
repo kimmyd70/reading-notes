@@ -122,4 +122,4 @@ R-34:
 [API Deployment](./py-api-deployment.md)
 
 R-35:
-[Python Graphs](./py-graphs.md)
+[Python Graphs](./graphs.md)
