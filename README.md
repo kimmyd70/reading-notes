@@ -123,3 +123,6 @@ R-34:
 
 R-35:
 [Graphs](./graphs.md)
+
+R-36:
+[Whiteboards](./whiteboards.md)
