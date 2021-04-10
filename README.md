@@ -129,3 +129,6 @@ R-36:
 
 R-37:
 [REACT part 1](./401-react-part-1.md)
+
+R-38:
+[REACT part 2](./401-react-part-2.md)
