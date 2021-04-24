@@ -29,7 +29,7 @@ for n in numbers:
 
 ## Generators
 
-This is where Python’s generators enter the scene. If I rewrite this iterator class as a generator, it looks like this:
+Class-based iterator method:  This is where Python’s generators enter the scene. If I rewrite this iterator class as a generator, it looks like this:
 
 ```
 def repeater(value):
@@ -38,3 +38,20 @@ def repeater(value):
 
 ```
 
+And that’s quite a fitting mental model for what happens here. You see, when a return statement is invoked inside a function, it permanently passes control back to the caller of the function. When a yield is invoked, it also passes control back to the caller of the function—but it only does so temporarily.
+
+Whereas a return statement disposes of a function’s local state, a yield statement suspends the function and retains its local state.
+
+In practical terms, this means local variables and the execution state of the generator function are only stashed away temporarily and not thrown out completely.
+
+Execution can be resumed at any time by calling next() on the generator:
+
+```
+>>> iterator = repeater('Hi')
+>>> next(iterator)
+'Hi'
+>>> next(iterator)
+'Hi'
+>>> next(iterator)
+'Hi'
+```
