@@ -139,3 +139,6 @@ R-39:
 
 R-41:
 [REACT part 4](./401-react-part-4.md)
+
+R-42
+[Pythonisms] (./pythonisms.md)
