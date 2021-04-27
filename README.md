@@ -142,3 +142,6 @@ R-41:
 
 R-42
 [Pythonisms](./pythonisms.md)
+
+R-43
+[Ethics](./ethics.md)
