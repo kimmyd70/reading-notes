@@ -4,7 +4,8 @@
 
 
 [**201 & 301 notes here**](./ToC-301&201.md)
-[**40 Python notes here**](./Toc-401-Python.md)
+
+[**401 Python notes here**](./Toc-401-Python.md)
 
 ## Advanced Software Development -- JavaScript ##
 **401 Notes**
