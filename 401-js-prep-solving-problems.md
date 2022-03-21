@@ -64,7 +64,7 @@ The author recommends how to use the 5 Whys :
 
 __________________________
 
-The YouTube: [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+The YouTube: [What the heck is the event loop anyway? by Philip Roberts, JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 Key take aways:
 - JS is described by the speaker as "a single threaded single concurrent language ... with a call stack, an event loop, a callback queue, and some other APIs and stuff."
@@ -95,7 +95,7 @@ This article has a wealth of detailed information, and the following diagrams ar
 
 _________________
 
-YouTube: [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)
+YouTube: [The Super Mario Effect - Tricking Your Brain into Learning More by Mark Rober,TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)
 
 - The author looks at how to re-frame the learning process
 
