@@ -45,7 +45,7 @@ The author recommends 4 steps:
 _______________________
 
 The article [5 Whys
-Getting to the Root of a Problem Quickly](https://www.mindtools.com/pages/article/newTMC_5W.htm)
+Getting to the Root of a Problem Quickly on Mind Tools](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
 Key take aways:
 - Acc to the author, "Sakichi Toyoda, the Japanese industrialist, inventor, and founder of Toyota Industries, developed the 5 Whys technique in the 1930s. It became popular in the 1970s, and Toyota still uses it to solve problems today." 
