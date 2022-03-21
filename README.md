@@ -15,6 +15,8 @@ ______________
 
 R-Prep: 
 
-[Problem Solving, Computational Thinking, 5 Whys, The Event Loop, and The Super Mario Effect](./401-js-prep-solving-problems.md)
+@ [Problem Solving, Computational Thinking, 5 Whys, The Event Loop, and The Super Mario Effect](./401-js-prep-solving-problems.md)
 
-[Terminal Practice](./401-js-prep-terminal.md)
+@ [Terminal Practice](./401-js-prep-terminal.md)
+
+@ [SQL Practice](./401-js-prep-sql.md)
