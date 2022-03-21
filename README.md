@@ -13,4 +13,4 @@
 ______________
 
 
-R-Prep:
+R-Prep: [Problem Solving, Computational Thinking, 5 Whys, The Event Loop, and The Super Mario Effect](./401-js-prep-solving-problems.md)
